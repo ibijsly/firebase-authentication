@@ -5,6 +5,7 @@ build/
 !**/src/main/**
 !**/src/test/**
 gradle*
+configKey.json
 
 ### STS ###
 .apt_generated
